@@ -1,2 +1,2 @@
 # Soundtrek
-Trek through your music history!
+Take a trek through your music history!
